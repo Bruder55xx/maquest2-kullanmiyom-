@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    {
+      "acc_info": "query_id=AAHAHQNAAAAAAMAdA0BFO8qO&user=%7B%22id%22%3A1073946048%2C%22first_name%22%3A%22Yavuz%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22bruder555%22%2C%22language_code%22%3A%22tr%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726213838&hash=66c90b4cf75071066b04f98c96e09324a04573aeaa6ded10e2be27aaf11158cd",
+      "proxy_info": "http://bntksuzm:2epfzzpa83z5@38.154.227.167:5868"
+    },
+    {
+      "acc_info": "query_id=AAHtMRIpAwAAAO0xEilfKe1S&user=%7B%22id%22%3A7131509229%2C%22first_name%22%3A%22E%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22samsun_03%22%2C%22language_code%22%3A%22tr%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726213935&hash=605c049014ec16b6f0f607af3f113eb3c860e39176e95c540890a237b5f8a425",
+      "proxy_info": "http://bntksuzm:2epfzzpa83z5@45.127.248.127:5128"
+    }
+  ]
+}
